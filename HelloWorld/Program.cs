@@ -43,9 +43,6 @@ namespace HelloWorld
         sdf
         asd
         fa
-        df
-        ads
-        f
         */
         }
     }
